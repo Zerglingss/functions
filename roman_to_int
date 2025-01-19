@@ -1,3 +1,4 @@
+# Converts a valid roman numeral representation to int
 def roman_to_int(s: str) -> int:
     carry = None
     value = 0
